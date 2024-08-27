@@ -1,18 +1,8 @@
 ﻿;DO NOT DELETE THIS LINE*** version=1 ***
-alx:Hướng dẫn latex tạo beamer từ nội dung:
-bm:beamer
 dcy:docker-compose.yml
 dl:Download
 dt:Desktop
+pp:python
 gg:google
-gh:github
-gitc:git clone
-gt:giải thích về
 hd:hướng dẫn
 lx:latex
-ml:MySQL
-mm:sơ đồ Mermaid
-pp:python
-ubt:ubuntu
-wd:windows
-vsc:vscode
