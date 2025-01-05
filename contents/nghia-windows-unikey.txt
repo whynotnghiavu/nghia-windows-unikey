@@ -1,20 +1,20 @@
 ﻿;DO NOT DELETE THIS LINE*** version=1 ***
 00:121099
-bbb:               git reset --soft $(git rev-list --max-parents=0 HEAD) && git commit -m "Coding" && git push origin --force     &&      exit 0 
-ccc:                   git commit --amend --no-edit && git push --force          &&      exit 0 
+bbb:               git reset --soft $(git rev-list --max-parents=0 HEAD) && git commit -m "Coding" && git push origin --force     &&      exit 0    # Chức năng: Xóa GIT
+ccc:                   git commit --amend --no-edit && git push --force          &&      exit 0       # Chức năng: Dùng 1 commit
 dbpg:postgres
 dcy:docker-compose.yml
-dcyb: docker compose -f docker-compose.yml build
+dcyb: docker compose -f docker-compose.yml build             
 dcyr:docker compose -f docker-compose.yml up -d
 fpp:FastAPI
 gg:google
-ggg:                      git add . && git commit -m "git add" && cd .. && ls    &&      exit 0 
+ggg:                      git add . && git commit -m "Auto commit" &&   ls    &&      exit 0            # Chức năng: Auto commit
 hd:Hướng dẫn
 jjj:   jenkins 
 kag:Kong API Gateway
 kkk:c3pLcvxxFRtWm9PAZY6S
 mm:Admin@123
-mmm:                   code .         &&      exit 0   
+mmm:                   code .         &&      exit 0               # Chức năng: Mở VSCode
 msa:microservices
 pp:python
 rrr:request response result
