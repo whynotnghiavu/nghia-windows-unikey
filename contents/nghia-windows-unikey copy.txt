@@ -1,0 +1,15 @@
+﻿;DO NOT DELETE THIS LINE*** version=1 ***
+alx:Hướng dẫn latex tạo beamer từ nội dung:
+bm:beamer
+dl:Download
+dt:Desktop
+gh:github
+gitc:git clone
+gt:giải thích về
+lx:latex
+ml:MySQL
+mm:sơ đồ Mermaid
+pp:python
+ubt:ubuntu
+wd:windows
+vsc:vscode

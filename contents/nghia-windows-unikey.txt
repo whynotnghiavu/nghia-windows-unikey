@@ -1,0 +1,22 @@
+﻿;DO NOT DELETE THIS LINE*** version=1 ***
+00:121099
+bbb:               git reset --soft $(git rev-list --max-parents=0 HEAD) && git commit -m "Coding" && git push origin --force     &&      exit 0 
+ccc:                   git commit --amend --no-edit && git push --force          &&      exit 0 
+dbpg:postgres
+dcy:docker-compose.yml
+dcyb: docker compose -f docker-compose.yml build
+dcyr:docker compose -f docker-compose.yml up -d
+fpp:FastAPI
+gg:google
+ggg:                      git add . && git commit -m "git add" && cd .. && ls    &&      exit 0 
+hd:Hướng dẫn
+jjj:   jenkins 
+kag:Kong API Gateway
+kkk:c3pLcvxxFRtWm9PAZY6S
+mm:Admin@123
+mmm:                   code .         &&      exit 0   
+msa:microservices
+pp:python
+rrr:request response result
+sss:code ~/.ssh
+ttt:   cd /temp && ls
